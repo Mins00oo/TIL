@@ -9,6 +9,7 @@
 * [Garbage Collection](https://github.com/Mins00oo/TIL/blob/main/Java/Garbage%20Collection.md)
 * [스트림](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
 * [예외처리](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+* [List컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/List%EC%BB%AC%EB%A0%89%EC%85%98.md)
 
 
 ### [마주쳤던 예외들](https://github.com/Mins00oo/TIL/tree/main/exception)
