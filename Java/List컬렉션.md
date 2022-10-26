@@ -31,3 +31,15 @@
 - 멀티 스레드 환경에서 안전하게 객체를 추가, 삭제할 수 있음
 ## LinkedList
 `ArrayList와 사용 방법은 같지만 내부 구조가 완전히 다름`
+![image](https://user-images.githubusercontent.com/109537583/198158814-03d676f2-fde3-434c-ad5e-af8ee29c83ef.png)
+- 특정 인덱스의 객체를 제거하면 앞뒤 링크만 변경되고 나머지 링크는 변경되지 않음
+- 객체를 삽입할 때도 마찬가지
+
+![image](https://user-images.githubusercontent.com/109537583/198159101-e1088ec0-dc56-45ec-983e-ed3040d90218.png)
+- 생성하기 위해서는 저장할 객체 타입을 파라미터 E에 표기하고 기본 생성자 호출
+  - `List<E> list = new LinkedList<>(E);`
+----------------------
+## 성능차이 
+![image](https://user-images.githubusercontent.com/109537583/198159531-71a74437-dd0b-4e40-a72d-5048d6181550.png)
+- 조회시에는 ArrayList가 우위에 있음
+- 중간에 삽입/삭제시에는 LinkedList가 우위에 있음
