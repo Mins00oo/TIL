@@ -28,4 +28,7 @@ HashMap과 동일한 내부 구조
 - 스레드가 안전함
 - 생성
   - `Map<K, V> map = new Hashtable<K, V>();`
-
+-----------------
+## getOrDefault(Object key, V DefaultValue)
+- key: 값을 가져와야하는 요소의 키
+- defaultVale: 키로 매핑된 값이 없다면 반환되어야 하는 기본값
