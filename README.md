@@ -12,7 +12,7 @@
 * [[Java] List컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/List%EC%BB%AC%EB%A0%89%EC%85%98.md)
 * [[Java] Set컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/Set%EC%BB%AC%EB%A0%89%EC%85%98.md)
 * [[Java] Map컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/Map%EC%BB%AC%EB%A0%89%EC%85%98.md)
-* [[Java] ==와 equals()의차이점](https://github.com/Mins00oo/TIL/blob/main/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+* [[Java] ==와 equals()의 차이점](https://github.com/Mins00oo/TIL/blob/main/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
 
 ### [마주쳤던 예외들](https://github.com/Mins00oo/TIL/tree/main/exception)
