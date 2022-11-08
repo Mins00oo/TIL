@@ -6,6 +6,7 @@
 
 ### 📌 Spring
 * [[Spring] 비즈니스 로직은 서비스 계층에서?](https://github.com/Mins00oo/TIL/blob/main/Spring/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90%EC%84%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%EC%B2%98%EB%A6%AC.md)
+* [[Spring] @Transactional(readOnly = true)는 왜 사용할까?](https://github.com/Mins00oo/TIL/blob/main/Spring/%40Transactional(readOnly%20%3D%20true).md)
 
 
 ### 📌 JAVA
