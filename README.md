@@ -4,6 +4,10 @@
 
 # 분류
 
+### 📌 Spring
+* [[Spring] 비즈니스 로직은 서비스 계층에서?](https://github.com/Mins00oo/TIL/blob/main/Spring/%EB%8F%84%EB%A9%94%EC%9D%B8%EC%97%90%EC%84%9C%20%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%20%EB%A1%9C%EC%A7%81%EC%B2%98%EB%A6%AC.md)
+
+
 ### 📌 JAVA
 * [[Java] JVM & 메모리구조](https://github.com/Mins00oo/TIL/blob/main/Java/JVM%20%26%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
 * [[Java] Garbage Collection](https://github.com/Mins00oo/TIL/blob/main/Java/Garbage%20Collection.md)
