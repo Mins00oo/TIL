@@ -20,7 +20,7 @@
 * [[Java] Map컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/Map%EC%BB%AC%EB%A0%89%EC%85%98.md)
 * [[Java] ==와 equals()의 차이점](https://github.com/Mins00oo/TIL/blob/main/Java/%5BJava%5D%20%3D%3D%EC%99%80%20equals()%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 * [[Java] 체크예외 vs 언체크예외](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%B2%B4%ED%81%AC%20%EC%98%88%EC%99%B8%20vs%20%EC%96%B8%EC%B2%B4%ED%81%AC%20%EC%98%88%EC%99%B8.md)
-* [[Java] 자바의 장단점]()
+* [[Java] 자바의 장단점](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%9E%90%EB%B0%94%EC%9D%98%20%EC%9E%A5%EB%8B%A8%EC%A0%90.md)
 
 
 ### [마주쳤던 예외들](https://github.com/Mins00oo/TIL/tree/main/exception)
