@@ -31,6 +31,8 @@
 # `언체크 예외 `
 - 예외 처리를 강제하지 않는 특징이 있다.
 - 그렇기 때문에 catch로 잡거나 throw로 예외를 던지지 않아도 상관이 없다.
+---
+![image](https://user-images.githubusercontent.com/109537583/202942178-e9ac179c-ad2d-497d-b8cf-3810f7222076.png)
 
 ---
 # `참고`
