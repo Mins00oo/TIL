@@ -14,7 +14,7 @@
 * [[Java] JVM & 메모리구조](https://github.com/Mins00oo/TIL/blob/main/Java/JVM%20%26%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%EA%B5%AC%EC%A1%B0.md)
 * [[Java] Garbage Collection](https://github.com/Mins00oo/TIL/blob/main/Java/Garbage%20Collection.md)
 * [[Java] 스트림](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%8A%A4%ED%8A%B8%EB%A6%BC.md)
-* [[Java] 예외처리](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+* [[Java] 예외처리(Exception Handling)](https://github.com/Mins00oo/TIL/blob/main/Java/%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC(exception%20handling).md)
 * [[Java] List컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/List%EC%BB%AC%EB%A0%89%EC%85%98.md)
 * [[Java] Set컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/Set%EC%BB%AC%EB%A0%89%EC%85%98.md)
 * [[Java] Map컬렉션](https://github.com/Mins00oo/TIL/blob/main/Java/Map%EC%BB%AC%EB%A0%89%EC%85%98.md)
