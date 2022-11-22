@@ -37,3 +37,4 @@
 ---
 # `참고`
 https://cheese10yun.github.io/checked-exception/
+https://www.nextree.co.kr/p3239/
