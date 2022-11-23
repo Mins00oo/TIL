@@ -9,6 +9,7 @@
 * [[Spring] @Transactional(readOnly = true)는 왜 사용할까?](https://github.com/Mins00oo/TIL/blob/main/Spring/%40Transactional(readOnly%20%3D%20true).md)
 * [[Spring] @Transactional rollback 처리에 대해](https://github.com/Mins00oo/TIL/blob/main/Spring/%40Transactional%20roll%20back%EC%B2%98%EB%A6%AC%EC%97%90%20%EB%8C%80%ED%95%B4.md)
 * [[Spring] Spring vs Spring Boot](https://github.com/Mins00oo/TIL/blob/main/Spring/Spring%20vs%20Spring%20Boot.md)
+* [[Spring] lombok 사용 가이다](https://github.com/Mins00oo/TIL/blob/main/Spring/Lombok%20%EA%B0%80%EC%9D%B4%EB%93%9C.md)
 
 
 ### 📌 JAVA
