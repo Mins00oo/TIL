@@ -4,7 +4,7 @@ Lombok은 우리 클래스 내에서 코드를 줄여주는 자바 라이브러�
 사용하는데 있어 조심할 점을 살펴보자.
 
 ## 1. @Data는 쓰지 않도록 하자
-보통 코드를 작성하는데 있어 @Data부터 작성해주는 개발자들이 있다. 물론 나도 이런 행동을 해왔다. 
+보통 코드를 작성하는데 있어 @Data부터 작성해주는 개발자들이 있다. 물론 나도 이런 행동을 해왔다.
 여기서 핵심은 @Data는 Getter, Setter 뿐만 아니라 equals, hashcode, toString, canEqual과 같은 다른 추가적인 메소드를 제공한다.
 
 그러나, 우린 Getter, Setter만 사용하기 위해서 @Data를 붙여준다면 사용하지 않는 메소드에 대해서도 정의를 하기 때문이다.
@@ -20,3 +20,5 @@ Setter는 모든 필드에 대한 Setter를 만들어주는데, 편한 반면 �
 
 ## 3. Builder는 클래스에 직접적으로 말고 생성자에 사용하자
 
+## 참고
+https://github.com/cheese10yun/TIL/blob/master/Spring/lombok-guide.md
