@@ -1,4 +1,4 @@
-# 그림으로 배우는 Http & NetWork BaSic
+# 그림으로 배우는 HttP & NetWork BaSic
 
 ## 제 1장 - 웹과 네트워크의 기본에 대해 알아보자
 
