@@ -5,12 +5,15 @@
 
 ```yml
 version: '3.7'
+
 services:
     redis:
-        image: redis:6.2
+        container_name: redis-server
+        image: redis:alpine
         command: redis-server --requirepass 1234 --port 6379
+        hostname: redis-server
         restart: always
         ports:
-            - 6379:6379
+          - 6379:6379
 ```
 `docker-compose up -d`
